@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T02:08:48.839Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="6_T8ku2OBlqtQyAoYkET" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T02:30:09.790Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="eATykc8qCN61bxsjII94" version="20.4.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1021" dy="567" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -36,7 +36,10 @@
         <mxCell id="8EcOTREGMyz1jMZO3tZU-15" value="Create Opportunity in SF" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=14;strokeWidth=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8EcOTREGMyz1jMZO3tZU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8EcOTREGMyz1jMZO3tZU-17" target="8EcOTREGMyz1jMZO3tZU-24" edge="1">
+        <mxCell id="8EcOTREGMyz1jMZO3tZU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Bv1pG6rDbhh4RcwNzwZb-11" target="8EcOTREGMyz1jMZO3tZU-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bv1pG6rDbhh4RcwNzwZb-12" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8EcOTREGMyz1jMZO3tZU-17" target="Bv1pG6rDbhh4RcwNzwZb-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8EcOTREGMyz1jMZO3tZU-17" value="Upload Enquery File into SF Opportunity" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=14;strokeWidth=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -192,6 +195,9 @@
         </mxCell>
         <mxCell id="Bv1pG6rDbhh4RcwNzwZb-7" value="Set Delivery Item (Customer) in&lt;br&gt;Quote Line Item" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;arcSize=14;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="920" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bv1pG6rDbhh4RcwNzwZb-11" value="Mention AE to make&lt;br&gt;a Quotetion in Chatter" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;arcSize=14;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
