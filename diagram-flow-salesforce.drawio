@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T00:47:01.780Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="V-5upnIx93nOk-MhTqwp" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T00:52:34.340Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="iNI0x-0nXLZHxaZzZtNw" version="20.4.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1240" dy="689" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="8EcOTREGMyz1jMZO3tZU-0" value="Bisnis Proses Sales" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="430" y="30" width="210" height="40" as="geometry" />
+          <mxGeometry x="610" y="30" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8EcOTREGMyz1jMZO3tZU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8EcOTREGMyz1jMZO3tZU-5" target="8EcOTREGMyz1jMZO3tZU-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -128,7 +128,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CEy67A7VbpGF-3hFrqcU-11" value="Input Cust PO Number &amp;amp; SO Manual Number in SF Quote" style="whiteSpace=wrap;html=1;fontSize=13;rounded=1;arcSize=14;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="920" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="400" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CEy67A7VbpGF-3hFrqcU-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CEy67A7VbpGF-3hFrqcU-13" target="CEy67A7VbpGF-3hFrqcU-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
